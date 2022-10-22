@@ -1,0 +1,54 @@
+[
+  {
+    "Machineries":[     
+        {"text": "Milling Machine",
+         "callback_data": "Milling Machine",
+         "models": [{
+            "text": "Makino MAG3W-I",
+            "callback_data": "Makino MAG3W-I"
+         },
+         {
+          "text": " Makino MAG3W-II",
+          "callback_data": "Makino MAG3W-II"
+         }
+        ]
+      },
+      {
+        "text": "Grinder Machine",
+        "callback_data": "Grinder Machine",
+        "models": []
+      },
+      {
+       "text": "Drill Machine",
+       "callback_data": "Drill Machine",
+       "models": []
+      },
+      {
+        "text": "Circular Saw",
+        "callback_data": "Circular Saw",
+        "models": []
+      },
+      {
+        "text": "Jigsaw",
+        "callback_data": "Jigsaw",
+        "models": []
+      },
+      {
+        "text": "Angle Grinder",
+        "callback_data": "Angle Grinder",
+        "models": []
+      },
+      {
+        "text": "Mlter Saw",
+        "callback_data": "Mlter Saw",
+        "models": []
+      },
+      {
+        "text":" Table Saw",
+        "callback_data": "Table Saw",
+        "models": []
+      }
+
+    ]
+  }
+]
