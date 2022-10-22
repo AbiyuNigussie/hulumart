@@ -13,6 +13,7 @@ npm install
 
 starts the program
 ```
+cd BOTS
 npm start
 ```
 
